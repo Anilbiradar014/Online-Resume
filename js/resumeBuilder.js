@@ -168,7 +168,7 @@ var projects = {
         "title": " My Portfolio",
         "dates": "sept 2016",
         "description": "This Portfolio webpage provides other users to navigate to the projects that has been accomplished.",
-        "images": ["images/Portfolio-front.jpg", "images/portfolio.jpg"],
+        "images": ["images/portfolio-front.jpg", "images/portfolio.jpg"],
         "url": "https://anilbiradar014.github.io/portfolio/"
     }, {
 
