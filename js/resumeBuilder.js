@@ -175,7 +175,7 @@ var projects = {
         "title": "My Resume",
         "dates": "oct 2016",
         "description": "The resume makes it easy to show employers why you’re perfect for the job.",
-        "images": ["images/online_resume.jpg","images/gitresume.jpg],
+        "images": ["images/online_resume.jpg","images/gitresume.jpg"],
         "url": ""
     }]
 };
