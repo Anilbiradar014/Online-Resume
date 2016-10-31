@@ -48,21 +48,21 @@ var education = {
         "location": "Udupi",
         "degree": "Primary School",
         "majors": ["S.S.L.C"],
-        "dates": 2016,
+        "dates": "2000 - 2010",
         "url": ""
     }, {
         "name": "Basaveshwara College of Commerce,Arts & Science",
         "location": "Mysore",
         "degree": "PUC",
         "majors": ["1st PUC", "2nd PUC"],
-        "dates": 2012,
+        "dates": "2010 - 2012",
         "url": "http://www.basaveshwaracollege.org.in/"
     }, {
         "name": "Dayananda Sagar College of Engineering",
         "location": "Kumaraswamy Layout, Bengaluru",
         "degree": "Bachelors",
         "majors": ["CS"],
-        "dates": 2016,
+        "dates": "2012 - 2016",
         "url": "http://dayanandasagar.edu/dsce/"
     }],
 
